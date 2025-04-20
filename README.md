@@ -4,7 +4,7 @@ An automated farming bot designed to interact with the Taker Sowing Protocol. Th
 
 ## Register
 
-- Link : https://sowing.taker.xyz/?start=B81Z0GDR
+- Link : https://sowing.taker.xyz/?start=1Z2BT73G
 
 ## Features
 
@@ -27,7 +27,7 @@ An automated farming bot designed to interact with the Taker Sowing Protocol. Th
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/airdropinsiders/Sowing-Taker-Auto-Bot.git
+git clone https://github.com/‌airdropbomb/Sowing-Taker-Auto-Bot.git
 cd Sowing-Taker-Auto-Bot
 ```
 
