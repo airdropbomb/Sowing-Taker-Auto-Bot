@@ -73,7 +73,7 @@ const headerBox = blessed.box({
     left: 0,
     width: '100%',
     height: 3,
-    content: '{center}SOWING TAKER FARMING BOT - AIRDROP INSIDERS{/center}',
+    content: '{center}SOWING TAKER FARMING BOT - ADB NODE{/center}',
     tags: true,
     style: { fg: 'cyan', bg: 'black' }
 });
