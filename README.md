@@ -27,7 +27,7 @@ An automated farming bot designed to interact with the Taker Sowing Protocol. Th
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/‌airdropbomb/Sowing-Taker-Auto-Bot.git && cd Sowing-Taker-Auto-Bot
+git clone https://github.com/‌airdropbomb/Sowing-Taker-Auto-Bot.git && cd Sowing-Taker-Auto
 ```
 
 2. Install dependencies:
